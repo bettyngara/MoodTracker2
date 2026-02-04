@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="update_mood">Update Mood</string>
+</resources>
